@@ -6,6 +6,7 @@ Sono un problem solver nato con una passione per l'innovazione e l'aiuto agli al
 Attualmente sto lavorando su:
 
 Ricerche radiologiche: Un'applicazione web avanzata sviluppata con React e Node.js, progettata per prenotare esami radiologici presso centro specialistico.
+Guarda ora: https://ricerche-radiologiche.vercel.app/
 
 🛠️ Tecnologie
 Ho esperienza con:
