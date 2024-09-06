@@ -22,7 +22,7 @@ Il mio percorso professionale mi ha portato attraverso diverse esperienze format
 
 Gestione di un call center <br>
 Operatore tecnico presso Network Contact srl, supporto Enel <br>
-Progetti Soluzione Spa: affinamento del problem solving e gestione ticket <br>
+Progetti e Soluzioni S.p.a.: affinamento del problem solving e gestione ticket <br>
 Sviluppo web full stack <br>
 
 🌟 Punti di forza <br>
