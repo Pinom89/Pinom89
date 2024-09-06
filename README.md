@@ -1,5 +1,5 @@
-Ciao, sono Giuseppe 👋
-Benvenuto/a sul mio profilo GitHub!
+Ciao, sono Giuseppe 👋 <br>
+Benvenuto/a sul mio profilo GitHub! 
 🚀 Chi sono
 Sono un problem solver nato con una passione per l'innovazione e l'aiuto agli altri. La mia carriera è stata un viaggio emozionante, partendo per la gestione di assistenza tecnica in Enel, passando alla mansione di Help Desk Senior per Progettiesoluzioni S.p.a. fino a diventare un web developer full stack specializzato nello stack MERN.
 🔭 Progetti in corso
